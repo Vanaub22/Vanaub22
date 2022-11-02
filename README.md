@@ -12,3 +12,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanaub22&show_icons=true&locale=en&layout=compact" alt="vanaub22" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanaub22&" alt="vanaub22" /></p>
+[![@vanaub22's Holopin board](https://holopin.me/vanaub22)](https://holopin.io/@vanaub22)
