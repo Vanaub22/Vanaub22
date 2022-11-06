@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Computer Science Engineering Undergrad currently in my Second Year of college academics.<br>Leaving tech aside, I am an avid reader and I enjoy creating content of my own.<br>
+I am a Computer Science Engineering Undergrad currently in my Second Year of college academics.<br>Apart from coding and tech, I am an avid reader and I enjoy creating content of my own.<br>
 
 
 ## 🌐 Socials:
@@ -16,5 +16,5 @@ I am a Computer Science Engineering Undergrad currently in my Second Year of col
 ![](https://github-profile-trophy.vercel.app/?username=Vanaub22&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+## 🏆 Contributions to Hactoberfest'22
 [![@vanaub22's Holopin board](https://holopin.me/vanaub22)](https://holopin.io/@vanaub22)
