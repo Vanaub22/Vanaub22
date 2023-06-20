@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Computer Science Engineering Undergrad currently in my Second Year of college.<br>Apart from coding and tech, I am an avid reader and I enjoy creating content of my own.<br>
+I am a Computer Science Engineering Undergrad currently in my Third Year of college.<br>Apart from coding and tech, I am an avid reader and I enjoy creating content of my own.<br>
 
 
 ## 🌐 Connect with me:
