@@ -6,11 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanaub22&label=Profile%20views&color=0e75b6&style=flat" alt="vanaub22" /> </p>
 
 - 🔭 I’m currently working on **Advanced DSA**
-
 - 🌱 I’m currently learning **Algorithms**
-
 - 📫 Drop me a mail at **anucbs2018@gmail.com**
-
 - ⚡ Fun fact **I am Funny**
 
 ## 🌐 Socials:
