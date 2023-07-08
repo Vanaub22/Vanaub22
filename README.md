@@ -1,5 +1,3 @@
-<img align="center" alt="Coding" width="600" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 <h1 align="center">Hi 👋, I'm Anuvab Chakravarty</h1>
 
 <h3 align="center">An Undergraduate CSE Student from India</h3>
