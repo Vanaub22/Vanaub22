@@ -12,7 +12,8 @@
 - 🌱 I’m currently learning **Algorithms**
 - 📫 Drop me a mail at **anucbs2018@gmail.com**
 - ⚡ Check out my [LeetCode Profile](https://leetcode.com/Anuvab/)
-
+- 👉 Check out my [Portfolio Website](https://vanaub22.github.io/Portfolio-Website-2023/)
+- 😅 Why did the programmer quit his job? Because he didn't get a raise.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/surrealist.psyche) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anuvab-chakravarty-001b39233) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/anucbs2018) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Anuvab-Chakravarty) 
