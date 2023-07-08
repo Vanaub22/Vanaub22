@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on **Advanced DSA**
 - 🌱 I’m currently learning **Algorithms**
 - 📫 Drop me a mail at **anucbs2018@gmail.com**
-- ⚡ Check out my [Leetcode profile]([https://leetcode.com/problemset/all/](https://leetcode.com/Anuvab/))
+- ⚡ Check out my [LeetCode Profile](https://leetcode.com/Anuvab/)
 
 
 ## 🌐 Socials:
