@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on **Advanced DSA**
 - 🌱 I’m currently learning **Shell Scripting (Bash)**
 - 📫 Drop me a mail at **anucbs2018@gmail.com**
-- ⚡ Check out my [LeetCode Profile](https://leetcode.com/Anuvab/). 550+ Algorithm problems solved using C++.
+- ⚡ Check out my [LeetCode Profile](https://leetcode.com/Anuvab/). 600+ Algorithm problems solved using C++.
 - 👉 Check out my [Portfolio Website](https://vanaub22.github.io/Portfolio-Website-2023/)
 - 😅 Why did the programmer quit his job? Because he didn't get arrays.
 
