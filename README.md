@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanaub22&label=Profile%20views&color=0e75b6&style=flat" alt="vanaub22" /> </p>
 
 - 🔭 I’m currently working on **Advanced DSA**
-- 🌱 I’m currently learning **Shell Scripting (Bash)**
+- 🌱 I’m currently learning **System Programming**
 - 📫 Drop me a mail at **anucbs2018@gmail.com**
 - ⚡ Check out my [LeetCode Profile](https://leetcode.com/Anuvab/). 650+ DSA Problems Solved.
 - 👉 Check out my [Portfolio Website](https://vanaub22.github.io/Portfolio-Website-2023/)
