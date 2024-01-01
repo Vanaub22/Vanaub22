@@ -96,16 +96,3 @@ I am currently a **3rd Year Student** of **Computer Science & Engineering** **(G
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
 </div>
 
-# 📊 GitHub Stats:
-<div style="display: flex; justify-content: center;">
-    <div style="flex-basis: 50%; padding: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Vanaub22&theme=gotham&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-    </div>
-    <div style="flex-basis: 50%; padding: 10px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vanaub22&theme=gotham&hide_border=false" alt="GitHub Streak" />
-    </div>
-</div>
-<div style="text-align: center; padding: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanaub22&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</div>
-
