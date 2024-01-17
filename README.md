@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working on **Advanced DSA**
-- 🌱 I’m currently learning **Structured Query Language (SQL)**
+- 🌱 I’m currently learning **JavaScript** and **Structured Query Language (SQL)**
 - 📫 Drop me a mail at **anucbs2018@gmail.com**
 - ⚡ Check out my [LeetCode Profile](https://leetcode.com/Anuvab/). 800+ DSA Problems Solved.
 - 👉 Check out my [Portfolio Website](https://vanaub22.github.io/Portfolio-Website-2023/)
