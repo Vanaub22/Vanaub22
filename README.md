@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **Advanced DSA**
 - 🌱 I’m currently learning **JavaScript** and **Structured Query Language (SQL)**
 - 📫 Drop me a mail at **anucbs2018@gmail.com**
-- ⚡ Check out my [LeetCode Profile](https://leetcode.com/Anuvab/). 900+ DSA Problems Solved. Peak Contest Rating: 1642 (Top 17.43% world-wide)
+- ⚡ Check out my [LeetCode Profile](https://leetcode.com/Anuvab/). 900+ DSA Problems Solved.
 - 👉 Check out my [Portfolio Website](https://vanaub22.github.io/Portfolio-Website-2023/)
 - 😅 Why did the programmer quit his job? Because he didn't get arrays.
 
