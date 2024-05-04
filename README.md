@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanaub22&label=Profile%20views&color=0e75b6&style=flat" alt="vanaub22" /> </p>
 
 
-- 🔭 I’m currently working on **Advanced DSA**
+- 🔭 I’m currently looking for **Software Development Roles**
 - 🌱 I’m currently learning **JavaScript** and **Structured Query Language (SQL)**
 - 📫 Drop me a mail at **anucbs2018@gmail.com** or **anuvabchakravarty@gmail.com**
 - ⚡ Knight ⚔️ at [LeetCode](https://leetcode.com/Anuvab/). 1000+ problems solved & 1877 Contest Rating (Top 5.15% world-wide) .
@@ -95,4 +95,3 @@ I am currently a **3rd Year Student** of **Computer Science & Engineering** **(G
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
 </div>
-
