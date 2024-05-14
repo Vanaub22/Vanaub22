@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently looking for **Software Development Roles**
-- 🌱 I’m currently learning **JavaScript** and **Structured Query Language (SQL)**
+- 🌱 I’m currently learning **MERN Stack**
 - 📫 Drop me a mail at **anucbs2018@gmail.com** or **anuvabchakravarty@gmail.com**
 - ⚡ Knight ⚔️ at [LeetCode](https://leetcode.com/Anuvab/). 1000+ problems solved & 1864 Contest Rating (Top 5.5% world-wide) .
 - 👉 Check out my [Portfolio Website](https://vanaub22.github.io/Portfolio-Website-2023/)
