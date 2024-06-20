@@ -8,7 +8,7 @@
 - 🔭 I’m currently looking for **Software Development Roles**
 - 🌱 I’m currently learning **MERN Stack**
 - 📫 Drop me a mail at **anucbs2018@gmail.com** or **anuvabchakravarty@gmail.com**
-- ⚡ Knight ⚔️ at [LeetCode](https://leetcode.com/Anuvab/). 1100+ problems solved & 1864 Contest Rating (Top 5.5% world-wide) .
+- ⚡ Knight ⚔️ at [LeetCode](https://leetcode.com/Anuvab/). 1100+ problems solved & 1883 Contest Rating (Top 5.01% world-wide) .
 - 👉 Check out my [Portfolio Website](https://vanaub22.github.io/Portfolio-Website-2023/)
 - 😅 Why did the programmer quit his job? Because he didn't get arrays.
 
