@@ -8,9 +8,9 @@
 - 🔭 I’m currently looking for **Software Development Roles**
 - 🌱 I’m currently learning **MERN Stack**
 - 📫 Drop me a mail at **anucbs2018@gmail.com** or **anuvabchakravarty@gmail.com**
-- ⚡ Knight ⚔️ at [LeetCode](https://leetcode.com/Anuvab/). 1100+ problems solved & 1883 Contest Rating (Top 5.01% world-wide) .
+- ⚡ Knight ⚔️ at [LeetCode](https://leetcode.com/Anuvab/). 1100+ problems solved & 1883 Contest Rating (Top 5.01% world-wide)
 - 👉 Check out my [Portfolio Website](https://vanaub22.github.io/Portfolio-Website/) and my [Updated Resume](https://drive.google.com/file/d/1wK-rZNKkt_Zi9bfNPwoi3FzOn7P4En8n/view)
-- 😅 Why did the programmer quit his job? Because he didn't get arrays.
+- 😅 Why did the programmer quit his job? Because he didn't get arrays
 
 I am currently a **Final Year Student** of **Computer Science & Engineering** **(Graduating 2025)**. Apart from my core proficiencies I am also a debater, a published author and an avid reader.
 
