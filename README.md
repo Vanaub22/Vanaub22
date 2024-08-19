@@ -8,7 +8,7 @@
 - 🔭 I’m currently looking for **Software Development Roles**
 - 🌱 I’m currently learning **React JS**
 - 📫 Drop me a mail at **anucbs2018@gmail.com** or **anuvabchakravarty@gmail.com**
-- ⚔️ Knight at [LeetCode](https://leetcode.com/Anuvab/). 1100+ problems solved & 1883 Contest Rating (Top 5.01% world-wide)
+- ⚔️ Knight at [LeetCode](https://leetcode.com/Anuvab/). 1100+ problems solved & 1896 Contest Rating (Top 4.96% world-wide)
 - 🏫 Solved 100+ DSA problems at [GeeksForGeeks](https://www.geeksforgeeks.org/user/vanaub_22/)
 - 👉 Check out my [Portfolio Website](https://vanaub22.github.io/Portfolio-Website/) and my [Updated Resume](https://drive.google.com/file/d/1wK-rZNKkt_Zi9bfNPwoi3FzOn7P4En8n/view)
 
