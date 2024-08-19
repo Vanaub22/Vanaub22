@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently looking for **Software Development Roles**
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **React JS**
 - 📫 Drop me a mail at **anucbs2018@gmail.com** or **anuvabchakravarty@gmail.com**
 - ⚔️ Knight at [LeetCode](https://leetcode.com/Anuvab/). 1100+ problems solved & 1883 Contest Rating (Top 5.01% world-wide)
 - 🏫 Solved 100+ DSA problems at [GeeksForGeeks](https://www.geeksforgeeks.org/user/vanaub_22/)
