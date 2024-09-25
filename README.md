@@ -5,8 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanaub22&label=Profile%20views&color=0e75b6&style=flat" alt="vanaub22" /> </p>
 
 
-- 🔭 I’m currently looking for **Software Development Roles**
-- 🌱 I’m currently learning **React JS**
+- 🔭 I’m currently working as an **R&D Intern** at **Keysight Technologies**
 - 📫 Drop me a mail at **anucbs2018@gmail.com** or **anuvabchakravarty@gmail.com**
 - ⚔️ Knight at [LeetCode](https://leetcode.com/Anuvab/). 1100+ problems solved & 1896 Contest Rating (Top 4.96% world-wide)
 - 🏫 Solved 100+ DSA problems at [GeeksForGeeks](https://www.geeksforgeeks.org/user/vanaub_22/)
