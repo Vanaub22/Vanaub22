@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anuvab Chakravarty</h1>
-
-<h3 align="center">An Undergraduate CSE Student from Kolkata, India</h3>
+![Custom Linkedin Banner](https://github.com/user-attachments/assets/e798a000-4feb-4361-b950-60aff267894f)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanaub22&label=Profile%20views&color=0e75b6&style=flat" alt="vanaub22" /> </p>
 
