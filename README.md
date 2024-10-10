@@ -7,8 +7,8 @@
 
 - 🔭 I’m currently working as an **R&D Intern** at **Keysight Technologies**
 - 📫 Drop me a mail at **anucbs2018@gmail.com** or **anuvabchakravarty@gmail.com**
-- ⚔️ Knight at [LeetCode](https://leetcode.com/Anuvab/). 1200+ problems solved & 1896 Contest Rating (Top 4.96% world-wide)
-- 🏫 Solved 100+ DSA problems at [GeeksForGeeks](https://www.geeksforgeeks.org/user/vanaub_22/)
+- ⚔️ Knight at [LeetCode](https://leetcode.com/Anuvab/). 1200+ problems solved & 1896 Contest Rating (Top 4.56% world-wide)
+- 🏫 Solved 150+ DSA problems at [GeeksForGeeks](https://www.geeksforgeeks.org/user/vanaub_22/)
 - 👉 Check out my [Portfolio Website](https://vanaub22.github.io/Portfolio-Website/) and my [Updated Resume](https://drive.google.com/file/d/1wK-rZNKkt_Zi9bfNPwoi3FzOn7P4En8n/view)
 
 I am currently a **Final Year Student** of **Computer Science & Engineering** **(Graduating 2025)**. Apart from my core proficiencies I am also a debater, a published author and an avid reader.
