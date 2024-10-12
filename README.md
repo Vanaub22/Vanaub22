@@ -1,6 +1,10 @@
-![Custom Linkedin Banner](https://github.com/user-attachments/assets/e798a000-4feb-4361-b950-60aff267894f)
+![Custom GitHub Banner](https://github.com/user-attachments/assets/41c165a1-2451-41e5-ad84-628692ba1945)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vanaub22&label=Profile%20views&color=0e75b6&style=flat" alt="vanaub22" /> </p>
+<span align="left"> <img src="https://komarev.com/ghpvc/?username=vanaub22&label=Profile%20views&color=0e75b6&style=flat" alt="vanaub22" /></span>
+<span align="left"><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/Vanaub22/Vanaub22"></span>
+<span align="left"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Vanaub22/Vanaub22"></span>
+
+
 
 
 - 🔭 I’m currently working as an **R&D Intern** at **Keysight Technologies**
@@ -13,6 +17,8 @@ I am currently a **Final Year Student** of **Computer Science & Engineering** **
 
 # 💻 Tech Stack:
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="30"/>
+    <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
