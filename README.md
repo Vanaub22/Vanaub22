@@ -6,9 +6,6 @@
 <span align="left">
   <img src="https://img.shields.io/github/created-at/Vanaub22/Vanaub22" alt="GitHub Created Date" />
 </span>
-<span align="left">
-  <img src="https://img.shields.io/github/last-commit/Vanaub22/Vanaub22" alt="Last Commit Date" />
-</span>
 
 - 🔭 I’m currently working as an **R&D Intern** at **Keysight Technologies**
 - 📫 Reach out at **anucbs2018@gmail.com** or **anuvabchakravarty@gmail.com**
