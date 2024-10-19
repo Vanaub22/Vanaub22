@@ -99,6 +99,10 @@ I am a **Final Year Computer Science & Engineering Student** (Graduating 2025). 
 </div>
 
 <!---
+# 🗿 Statistics:
+![Anuvab's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vanaub22&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vanaub22&hide_progress=true&theme=radical)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/surrealist.psyche) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anuvab-chakravarty) 
