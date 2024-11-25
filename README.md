@@ -3,9 +3,9 @@
 <span align="left">
   <img src="https://komarev.com/ghpvc/?username=vanaub22&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views for vanaub22" />
 </span>
-<span align="left">
+<!-- <span align="left">
   <img src="https://img.shields.io/github/created-at/Vanaub22/Vanaub22" alt="GitHub Created Date" />
-</span>
+</span> -->
 
 - 🔭 I’m currently working as an **R&D Intern** at **Keysight Technologies**
 - 📫 Reach out at **anucbs2018@gmail.com** or **anuvabchakravarty@gmail.com**
