@@ -1,8 +1,8 @@
 ![Custom GitHub Banner](https://github.com/user-attachments/assets/41c165a1-2451-41e5-ad84-628692ba1945)
 
-<span align="left">
+<!-- <span align="left">
   <img src="https://komarev.com/ghpvc/?username=vanaub22&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views for vanaub22" />
-</span>
+</span> -->
 <!-- <span align="left">
   <img src="https://img.shields.io/github/created-at/Vanaub22/Vanaub22" alt="GitHub Created Date" />
 </span> -->
